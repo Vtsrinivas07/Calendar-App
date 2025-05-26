@@ -92,3 +92,9 @@ This is a dynamic, interactive event calendar built with React. It allows users 
 This project is for educational/demo purposes. You are free to use and modify it as needed.
 
 ![image](https://github.com/user-attachments/assets/693d4bbc-e04d-4a7c-95aa-c9689e8f50eb)
+![image](https://github.com/user-attachments/assets/5e0a16c3-4128-4110-b1f7-9f2e788df234)
+![image](https://github.com/user-attachments/assets/64c0177e-bd53-404e-81fe-5e525d988813)
+![image](https://github.com/user-attachments/assets/910b3e91-188a-4c85-a100-83c5866583d9)
+
+
+
